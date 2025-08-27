@@ -188,7 +188,7 @@ jupyter notebook FastF1_Project_Final.ipynb
 
 ## 📜 License
 
-This project is part of an academic course (ECE 9039) and is intended for educational purposes.
+This project is part of an academic course (ECE 9039 at Western University) and is intended for educational purposes.
 
 ## 🔗 Data Sources
 
@@ -204,5 +204,3 @@ This project is part of an academic course (ECE 9039) and is intended for educat
 - **XGBoost Team**: For the high-performance gradient boosting framework
 
 ---
-
-⚡ **Ready to predict the next F1 race?** Open `FastF1_Project_Final.ipynb` and start exploring the fascinating world of Formula 1 data science!
